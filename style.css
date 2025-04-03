@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  background-color: #f5f5f5;
+  margin-top: 350px;
+}
+
+h1 {
+  color: #5d2259;
+  font-size: 2.5em;
+}
+
+#horologe, #horologe_paris, #horologe_ny {
+    font-size: 3em;
+    margin-top: 30px;
+    color: #333;
+}   
