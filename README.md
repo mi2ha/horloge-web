@@ -6,7 +6,11 @@ Nous avons cree une application web qui affiche l’heure actuelle en heures, mi
 
 Affichage en temps réel de l'heure locale dans une interface simple.
 
-## Membres  
+## Membres
 
 - UNTILA Mihai
 - GINES Lorenzo
+
+## Cloner le projet 
+
+git clone --recursive https://github.com/mi2ha/horloge-web.git
